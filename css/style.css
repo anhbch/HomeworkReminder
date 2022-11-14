@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    width: 500px;
+    margin:0;
+}
+h1   {
+    color: black;
+    background-color: rgb(167, 192, 243);
+    margin-top: 0;
+    padding: 20px;
+    text-align: center;
+}
+h2   {
+    margin: 10px;
+    color: rgb(102, 137, 206);
+}
